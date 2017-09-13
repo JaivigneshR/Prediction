@@ -1,7 +1,7 @@
 #Clearing the Environment Memory
 remove(list =ls())
 #Importing the data Set
-SD=read.csv("C:/Users/harsh/Downloads/Species_data.csv")
+SD=read.csv("C:/Users/Jaivignesh/Downloads/Species_data.csv")
 #EDA
 summary(SD)
 str(SD)
